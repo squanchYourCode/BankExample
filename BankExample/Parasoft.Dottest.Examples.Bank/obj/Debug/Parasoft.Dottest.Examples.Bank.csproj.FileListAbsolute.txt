@@ -1,0 +1,6 @@
+C:\dotTEST10\Examples\VS2017\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\bin\Debug\Parasoft.Dottest.Examples.Bank.dll
+C:\dotTEST10\Examples\VS2017\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\bin\Debug\Parasoft.Dottest.Examples.Bank.pdb
+C:\dotTEST10\Examples\VS2017\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.csprojAssemblyReference.cache
+C:\dotTEST10\Examples\VS2017\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.csproj.CoreCompileInputs.cache
+C:\dotTEST10\Examples\VS2017\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.dll
+C:\dotTEST10\Examples\VS2017\SourceCode\BankExample\Parasoft.Dottest.Examples.Bank\obj\Debug\Parasoft.Dottest.Examples.Bank.pdb
